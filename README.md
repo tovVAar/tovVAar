@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <br><br>
+  <samp>
+    Hola! :wave:<br/> 
+    I am a developer for Microsoft.
+    <br><br>:coffee: Wanna chat? <a href="https://twitter.com/tovVAar">@tovVAar</a>
+  </samp>
+</p>
 
-<!--
-**tovVAar/tovVAar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>🧑‍💻 2021 goals</b></summary>
+  I am trying to master javascript, and start writting a book about it.<br/>
+  I also wanna learn about three.js and see how it works for game development on the browser.</br>
+  Push something to <a href="https://frame-data.com">frame-data.com</a>
+</details>
