@@ -2,7 +2,7 @@
   <br><br>
   <samp>
     Hola! :wave:<br/> 
-    I am a developer for Microsoft.
+    I am a developer from Aguascalientes MX :cactus:<br/>
     <br><br>:coffee: Wanna chat? <a href="https://twitter.com/tovVAar">@tovVAar</a>
   </samp>
 </p>
