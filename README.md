@@ -8,6 +8,12 @@
 </p>
 
 <details>
+  <summary> <b>Art gallery</b></summary>
+  Procedural gallery and guide about my p5 learning journey.
+  https://tovvaar.github.io/p5Learning
+</details>
+
+<details>
   <summary><b>🧑‍💻 2021 goals</b></summary>
   I am trying to master javascript, and start writting a book about it.<br/>
   I also wanna learn about three.js and see how it works for game development on the browser.</br>
