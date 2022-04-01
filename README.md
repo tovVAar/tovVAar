@@ -3,19 +3,16 @@
   <samp>
     Hola! :wave:<br/> 
     I am a developer from Aguascalientes MX :cactus:<br/>
-    <br><br>:coffee: Wanna chat? <a href="https://twitter.com/tovVAar">@tovVAar</a>
   </samp>
 </p>
 
-<details>
-  <summary> <b>Art gallery</b></summary>
-  Procedural gallery and guide about my p5 learning journey.
-  https://tovvaar.github.io/p5Learning
-</details>
+# Projects
+- Procedural gallery and guide about my p5 learning journey.
+  - https://tovvaar.github.io/p5Learning
 
-<details>
-  <summary><b>🧑‍💻 2021 goals</b></summary>
-  I am trying to master javascript, and start writting a book about it.<br/>
-  I also wanna learn about three.js and see how it works for game development on the browser.</br>
-  Push something to <a href="https://frame-data.com">frame-data.com</a>
-</details>
+
+# 🧑‍2022 goals
+- Learning Three.js
+- Push something to [frame-data.com](https://frame-data.com)
+- Unity tools for video processing.
+
