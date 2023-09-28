@@ -8,6 +8,7 @@
 
 # Education
 - Computer Systems Engineer
+  - [Universidad Autónoma de Aguascalientes](https://www.uaa.mx)
   - Graduated with honors
   - 2008 - 2013
 
@@ -16,7 +17,9 @@
   - https://tovvaar.github.io/p5Learning
 
 # 2023 goals
-- Practice Three.js
+- C# Certification [FCC](https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification)
+- Familiarize with Open AI [API](https://platform.openai.com/docs/api-reference)
+- Practice [Three.js](https://threejs.org/)
 - Push something to [frame-data.com](https://frame-data.com)
 
 # Links
