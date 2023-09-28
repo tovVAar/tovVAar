@@ -2,17 +2,24 @@
   <br><br>
   <samp>
     Hola! :wave:<br/> 
-    I am a developer from Aguascalientes MX :cactus:<br/>
+    I am a systems engineer from Aguascalientes MX :cactus:<br/>
   </samp>
 </p>
+
+# Education
+- Computer Systems Engineer
+  - Graduated with honors
+  - 2008 - 2013
 
 # Projects
 - Procedural gallery and guide about my p5 learning journey.
   - https://tovvaar.github.io/p5Learning
 
-
-# 🧑‍2022 goals
-- Learning Three.js
+# 2023 goals
+- Practice Three.js
 - Push something to [frame-data.com](https://frame-data.com)
-- Unity tools for video processing.
 
+# Links
+- [LinkedIn](https://www.linkedin.com/in/tovarerick)
+- [X](https://twitter.com/TovVAar)
+- [Instagram](https://instagram.com/tovvaar)
