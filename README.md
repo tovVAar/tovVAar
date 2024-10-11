@@ -16,11 +16,5 @@
 - Experimenting with react
   - [frame-data.com](https://frame-data.com)
 
-# 2023 goals
-- C# Certification [FCC](https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification)
-- Familiarize with Open AI [API](https://platform.openai.com/docs/api-reference)
-- Practice [Godot](https://godotengine.org/)
-- Push something to 
-
 # Links
 - [LinkedIn](https://www.linkedin.com/in/tovarerick)
